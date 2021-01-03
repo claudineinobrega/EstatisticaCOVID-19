@@ -1,5 +1,6 @@
 # Progressive Web App com React - COVID-19
 
+## Progressive Web Application com React para mapear os dados do COVID19 pelo mundo.
 
 ![paginas_web](https://github.com/claudineinobrega/EstatisticaCOVID-19/blob/master/game.png)
 
